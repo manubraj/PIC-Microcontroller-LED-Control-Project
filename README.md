@@ -149,7 +149,7 @@ When an interrupt occurs:
 
 ## 📸 Circuit Diagram
 
-
+![image alt](https://github.com/manubraj/PIC-Microcontroller-LED-Control-Project/blob/e421efbaac4a259a1817dfb2983baed403ed96a6/interrupt.png)
 
 ---
 
